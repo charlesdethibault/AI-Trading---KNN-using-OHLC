@@ -6,6 +6,6 @@ In this case we use a k-nearest neighbours algorithm to predict whether the next
 
 Please click on the the Jupyter Notebook saved in this repo to have access to the paper.
 
-I recommend you to register a profile on Quandl but be able to access the API freely.
+I recommend you to register a profile on Quandl to be able to access the API freely.
 
 Enjoy!
